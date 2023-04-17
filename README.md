@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
 <a href="https://github.com/camera-2018/JAVA-SCRIRT">JAVA-SCRIRT</a>
-</h2><br>
+</h1><br>
 
 <p align="center">
 🎉 船新编程语言 JAVA SCRIRT  🎉
@@ -26,6 +26,9 @@
   </a>
 </p>
 
+#### 简介喵
+为了防止被美国卡脖子，我们决定自主研发，进行技术突破！
+船新语言JAVA SCRIRT 拥有变异脚本语言的特性喵，十分灵活！
 
 #### 使用方法喵
 ```bash
@@ -47,3 +50,7 @@ compiler.exe helloworld.java-scrirt
 scrirt.command.print('[something]')
 ```
 *注意 只能使用单引号喵 （因为没写别的😋）
+
+<p align="center">
+Made with ❤ by "COMPUTER & SOFTWARE SCHOOL"
+</p>
