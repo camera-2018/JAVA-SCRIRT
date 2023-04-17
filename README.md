@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/camera-2018/JAVA-SCRIRT/blob/main/LICENSE">
+  <a href="https://github.com/camera-2018/JAVA-SCRIRT/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/camera-2018/JAVA-SCRIRT?color=red" alt="license">
   </a>
   <a href="https://github.com/camera-2018/JAVA-SCRIRT/releases">
