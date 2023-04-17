@@ -25,3 +25,25 @@
     <img src="https://img.shields.io/github/issues-pr/camera-2018/JAVA-SCRIRT.svg?color=lightgreen" alt="pulls">
   </a>
 </p>
+
+
+#### 使用方法喵
+```bash
+node compiler.js helloworld.java-scrirt
+```
+
+将会输出
+```
+Hello, world!
+```
+
+*也可以使用构建好的可执行程序`compiler.exe`喵
+```
+compiler.exe helloworld.java-scrirt
+```
+
+#### 语法
+```
+scrirt.command.print('[something]')
+```
+*注意 只能使用单引号喵 （因为没写别的😋）
